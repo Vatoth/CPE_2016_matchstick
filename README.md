@@ -1,8 +1,6 @@
 # CPE_2016_matchstick
 Leave the last matchstick !
 
-# PSU_2016_Tetris
-
 This project is based on a very famous game based on matchsticks.
 There is a certain number of matchstick lines.
 The two players take turns; each player can, on a same line, take one or several matchsticks. The losing player is the
