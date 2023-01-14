@@ -84,7 +84,7 @@ t_pos   take_all(char **map, int max)
 {
   int   x;
   int   y;
-  t_pos pos;
+  t_pos pos = {0, 0};
 
   y = 0;
   while (map[y])

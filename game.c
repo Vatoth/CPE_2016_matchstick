@@ -77,7 +77,7 @@ int	main(int ac, char **av)
       len = my_atoi(av[1]);
       if (len < 1 || len > 100)
 	{
-	  dprintf(2, "map must be between 1 and 100\n");
+	  fprintf(stderr, "map must be between 1 and 100\n");
 	  return (84);
 	}
       max = my_atoi(av[2]);
